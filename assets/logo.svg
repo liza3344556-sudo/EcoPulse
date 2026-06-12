@@ -1,0 +1,8 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="160" height="160" rx="38" fill="#0E3B2E"/>
+<path d="M47 92C47 62 70 39 111 36C111 77 88 101 58 101C53 101 49 98 47 92Z" fill="#80E0A7"/>
+<path d="M52 98C72 82 85 68 110 42" stroke="#0E3B2E" stroke-width="7" stroke-linecap="round"/>
+<path d="M37 109C58 114 79 117 119 106" stroke="#C9F7D8" stroke-width="8" stroke-linecap="round"/>
+<circle cx="119" cy="106" r="8" fill="#F2C94C"/>
+<text x="80" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">EcoPulse</text>
+</svg>
